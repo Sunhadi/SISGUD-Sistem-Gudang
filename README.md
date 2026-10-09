@@ -1,6 +1,6 @@
 # SISGUD — Sistem Manajemen Gudang
 
-Aplikasi manajemen gudang (Warehouse Management System) dibangun dengan **semua tools gratis**:
+Aplikasi manajemen gudang (Warehouse Management System) 
 
 - **Backend:** Node.js + Express + PostgreSQL (`pg`)
 - **Frontend:** React.js (Vite) + Tailwind CSS
