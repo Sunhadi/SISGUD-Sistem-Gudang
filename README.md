@@ -5,8 +5,6 @@ Aplikasi manajemen gudang (Warehouse Management System) dibangun dengan **semua 
 - **Backend:** Node.js + Express + PostgreSQL (`pg`)
 - **Frontend:** React.js (Vite) + Tailwind CSS
 
-📖 Blueprint lengkap: [`WMS-Blueprint.md`](./WMS-Blueprint.md)
-
 ---
 
 ## Prasyarat

@@ -21,5 +21,8 @@ npm-debug.log*
 # Temp test helpers (backend)
 backend/tmp_*
 
+# Local design docs (not published)
+WMS-Blueprint.md
+
 # Coverage
 coverage/
