@@ -81,7 +81,7 @@ npm run dev        # vite dev server
 npm run build      # build produksi
 ```
 
-## Konsep Penting (dari blueprint)
+## Konsep Penting
 
 1. **Setiap perubahan stok wajib lewat service** yang menulis ke `stock_movements`.
 2. **Transaction** untuk operasi yang mengubah banyak tabel.
@@ -92,4 +92,4 @@ npm run build      # build produksi
 
 ## Deployment
 
-Lihat bagian 14 blueprint: lokal (Docker Compose) atau cloud gratis (Supabase/Neon + Render + Vercel/Netlify).
+Lihat bagian 14 : lokal (Docker Compose) atau cloud gratis (Supabase/Neon + Render + Vercel/Netlify).
